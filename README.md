@@ -1,0 +1,2 @@
+# IndexOfNumber
+main method
